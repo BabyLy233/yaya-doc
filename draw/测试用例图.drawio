@@ -1,1 +1,203 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T01:56:56.120Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" version="20.5.1" etag="xbwq8M-IaOPdDnXqsiow" type="github"><diagram id="2PlFDkbMFDrYq7UfL5eB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-28T02:12:52.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="hylkt4LKyxXRI6R9B5gj" version="20.5.1" type="github">
+  <diagram id="2PlFDkbMFDrYq7UfL5eB" name="第 1 页">
+    <mxGraphModel dx="1185" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-1" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="960" height="442" as="geometry" />
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-1">
+          <mxGeometry width="960" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-3" value="测试序号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;fontStyle=1;fontSize=14;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-2">
+          <mxGeometry width="128" height="26" as="geometry">
+            <mxRectangle width="128" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-4" value="测试模块" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;fontStyle=1;fontSize=14;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-2">
+          <mxGeometry x="128" width="213" height="26" as="geometry">
+            <mxRectangle width="213" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-5" value="前置条件" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;fontStyle=1;fontSize=14;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-2">
+          <mxGeometry x="341" width="144" height="26" as="geometry">
+            <mxRectangle width="144" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-6" value="测试环境" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;fontStyle=1;fontSize=14;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-2">
+          <mxGeometry x="485" width="82" height="26" as="geometry">
+            <mxRectangle width="82" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-7" value="操作步骤和数据" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;fontStyle=1;fontSize=14;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-2">
+          <mxGeometry x="567" width="157" height="26" as="geometry">
+            <mxRectangle width="157" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-8" value="测试结果" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;fontStyle=1;fontSize=14;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-2">
+          <mxGeometry x="724" width="129" height="26" as="geometry">
+            <mxRectangle width="129" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-9" value="是否通过" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;fontStyle=1;fontSize=14;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-2">
+          <mxGeometry x="853" width="107" height="26" as="geometry">
+            <mxRectangle width="107" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-1">
+          <mxGeometry y="26" width="960" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-11" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-10">
+          <mxGeometry width="128" height="104" as="geometry">
+            <mxRectangle width="128" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-12" value="用户查看医院信息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-10">
+          <mxGeometry x="128" width="213" height="104" as="geometry">
+            <mxRectangle width="213" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-13" value="网络正常&lt;br&gt;用户按流程正常操作" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-10">
+          <mxGeometry x="341" width="144" height="104" as="geometry">
+            <mxRectangle width="144" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-14" value="Android/IOS&lt;br&gt;浏览器" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-10">
+          <mxGeometry x="485" width="82" height="104" as="geometry">
+            <mxRectangle width="82" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-15" value="(1) 用户访问首页，点击预约挂号&lt;br&gt;(2) 可以正确查询到医院、科室、医生信息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-10">
+          <mxGeometry x="567" width="157" height="104" as="geometry">
+            <mxRectangle width="157" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-16" value="(1) 用户成功访问&lt;br&gt;(2) 医院、科室及医生信息正常输出" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-10">
+          <mxGeometry x="724" width="129" height="104" as="geometry">
+            <mxRectangle width="129" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-17" value="是" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-10">
+          <mxGeometry x="853" width="107" height="104" as="geometry">
+            <mxRectangle width="107" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-18" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-1">
+          <mxGeometry y="130" width="960" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-19" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-18">
+          <mxGeometry width="128" height="104" as="geometry">
+            <mxRectangle width="128" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-20" value="用户预约挂号" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-18">
+          <mxGeometry x="128" width="213" height="104" as="geometry">
+            <mxRectangle width="213" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-21" value="网络正常&lt;br&gt;用户按流程正常操作" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-18">
+          <mxGeometry x="341" width="144" height="104" as="geometry">
+            <mxRectangle width="144" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-22" value="Android/IOS&lt;br&gt;浏览器" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-18">
+          <mxGeometry x="485" width="82" height="104" as="geometry">
+            <mxRectangle width="82" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-23" value="(1) 用户访问首页，点击预约挂号&lt;br&gt;(2) 依次选择医院、科室、医生&lt;br&gt;(3) 选择预约时间并生成订单&lt;br&gt;(4) 在缴费页面完成付费" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-18">
+          <mxGeometry x="567" width="157" height="104" as="geometry">
+            <mxRectangle width="157" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-24" value="(1) 用户成功访问&lt;br&gt;(2) 订单成功生成&lt;br&gt;(3) 订单付费成功" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-18">
+          <mxGeometry x="724" width="129" height="104" as="geometry">
+            <mxRectangle width="129" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-25" value="是" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-18">
+          <mxGeometry x="853" width="107" height="104" as="geometry">
+            <mxRectangle width="107" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-1">
+          <mxGeometry y="234" width="960" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-28" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-27">
+          <mxGeometry width="128" height="104" as="geometry">
+            <mxRectangle width="128" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-29" value="资讯管理" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-27">
+          <mxGeometry x="128" width="213" height="104" as="geometry">
+            <mxRectangle width="213" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-30" value="网络正常" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-27">
+          <mxGeometry x="341" width="144" height="104" as="geometry">
+            <mxRectangle width="144" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-31" value="Windows10&lt;br&gt;浏览器" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-27">
+          <mxGeometry x="485" width="82" height="104" as="geometry">
+            <mxRectangle width="82" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-32" value="(1) 管理员访问后台管理页面并登陆&lt;br&gt;(2) 在内容管理-资讯列表中查看现有信息&lt;br&gt;(3) 发布或编辑资讯" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-27">
+          <mxGeometry x="567" width="157" height="104" as="geometry">
+            <mxRectangle width="157" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-33" value="(1) 管理员成功登陆&lt;br&gt;(2) 成功获取现有资讯信息&lt;br&gt;(3) 成功发布或编辑资讯" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-27">
+          <mxGeometry x="724" width="129" height="104" as="geometry">
+            <mxRectangle width="129" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-34" value="是" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-27">
+          <mxGeometry x="853" width="107" height="104" as="geometry">
+            <mxRectangle width="107" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-35" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-1">
+          <mxGeometry y="338" width="960" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-36" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-35">
+          <mxGeometry width="128" height="104" as="geometry">
+            <mxRectangle width="128" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-37" value="医院信息管理" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-35">
+          <mxGeometry x="128" width="213" height="104" as="geometry">
+            <mxRectangle width="213" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-38" value="网络正常" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-35">
+          <mxGeometry x="341" width="144" height="104" as="geometry">
+            <mxRectangle width="144" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-39" value="Windows10&lt;br&gt;浏览器" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-35">
+          <mxGeometry x="485" width="82" height="104" as="geometry">
+            <mxRectangle width="82" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-40" value="(1) 管理员访问后台管理页面并登陆&lt;br&gt;(2) 在信息管理中查看现有医院、科室、医生信息&lt;br&gt;(3) 发布或编辑信息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-35">
+          <mxGeometry x="567" width="157" height="104" as="geometry">
+            <mxRectangle width="157" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-41" value="(1) 管理员成功登陆&lt;br&gt;(2) 成功获取现有信息&lt;br&gt;(3) 成功发布或编辑医院等信息" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-35">
+          <mxGeometry x="724" width="129" height="104" as="geometry">
+            <mxRectangle width="129" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mp9wLZwLYSLBlnXVuA6R-42" value="是" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;strokeColor=default;strokeWidth=1;" vertex="1" parent="mp9wLZwLYSLBlnXVuA6R-35">
+          <mxGeometry x="853" width="107" height="104" as="geometry">
+            <mxRectangle width="107" height="104" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
